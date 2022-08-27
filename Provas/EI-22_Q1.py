@@ -4,5 +4,4 @@ while i <= 5:
     num = int(input(f"Digite o {i}° numero: "))
     soma = soma + num
     i += 1
-media = soma / 5
-print(f"Media dos 5 numeros: {media}")
+print(f"Soma dos 5 numeros: {soma}")
