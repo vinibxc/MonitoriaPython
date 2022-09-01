@@ -1,3 +1,5 @@
+# 3. Faça um programa que receba 4 números inteiros (informados pelo usuário) e apresente uma mensagem
+# informando se são ou não múltiplos de 10.
 numero= []
 i = 0
 while  i < 4:

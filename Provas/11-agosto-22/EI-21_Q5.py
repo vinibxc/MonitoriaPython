@@ -1,3 +1,6 @@
+#5.O Departamento Estadual de Meteorologia lhe contratou para desenvolver um programa que leia um
+#conjunto indeterminado de temperaturas, e informe ao final a menor e a maior temperaturas informadas,
+#bem como a média das temperaturas. A temperatura 999 representa a saída do laço de repetição.
 conjuntoTemp = []
 temperatura = 0
 soma = 0

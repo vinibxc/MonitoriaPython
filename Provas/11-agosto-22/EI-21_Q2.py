@@ -1,3 +1,4 @@
+# 2. Faça um programa que leia 10 números e informe a quantidade de números positivos, negativos e nulos.
 i = 0
 negativos = 0
 nulos = 0

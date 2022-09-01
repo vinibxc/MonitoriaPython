@@ -1,3 +1,4 @@
+# 2. Faça um programa que leia 10 números e informe a quantidade de números pares e não-pares.
 i = 0
 pares = 0
 impares = 0

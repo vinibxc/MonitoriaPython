@@ -1,3 +1,6 @@
+# 5. Faça um programa que leia nome e altura de 20 alunos. O primeiro valor representa o nome do aluno e o
+# segundo representa a sua altura. Encontre o aluno mais alto e o mais baixo. Mostre o nome do aluno mais
+# alto e o nome do aluno mais baixo, junto com suas alturas
 nomes = []
 alturas = []
 i = 1
